@@ -7,7 +7,7 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
-title: ZhenLam Wong                       # the main title
+title: Lammm                     # the main title
 
 tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
@@ -19,9 +19,9 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: https://lammm99.github.io
 
-author: ZhenLam Wong                # change to your full name
+author: Lammm              # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/Z-logo.png   # support internet resources
 
 github:
   username: Lammm99             # change to your github username
@@ -30,7 +30,7 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: ZhenLam Wong                 # it will shows as the copyright owner in Footer
+  name: Lammm              # it will shows as the copyright owner in Footer
   email: zhenlam99@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
